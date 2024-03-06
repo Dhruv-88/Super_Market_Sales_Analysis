@@ -2,6 +2,7 @@
 
 In today's dynamic retail landscape, data-driven insights are essential for staying competitive and meeting customer demands. This PowerBI dashboard offers a user-friendly interface to explore key metrics and trends within our supermarket, facilitating strategic decision-making.
 
+### project Demo : [Live dashbord](https://app.powerbi.com/view?r=eyJrIjoiNDVhOGVjMjgtN2U0ZC00ZGY2LTg3YmQtZjdlZDcyZTM2MmU4IiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9)
 ## Features
 
 * Interactive Visualizations: Dive into dynamic charts and graphs to understand sales trends, product performance, and more.
